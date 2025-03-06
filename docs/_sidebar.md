@@ -5,9 +5,9 @@
   * [3](3)
   * [4](4)
 
-* 2
-  * [1](1)
-  * [2](2)
+* Other
+  * [Offboost server](https://joplay.xyz/offboost)
+  * [Discord](https://discord.gg/MyqR2Wc6sd)
   * [3](3)
   * [4](4)
   * [5](5)
