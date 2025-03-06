@@ -4,4 +4,4 @@
 
 > Test lol
 
-[hehe](#/?id=home)
+[hehe](#home)
