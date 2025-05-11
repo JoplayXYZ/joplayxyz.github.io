@@ -18,6 +18,6 @@ Hi, I'm **JoplayXYZ**, go join my discord or else...
 Here are some projects idk
 
 - [SKripts](https://github.com/JoplayXYZ/Skripts)
-- [Minecraft server](https://joplay.xyz/offboost)
+- [Minecraft server](https://joplay.xyz/boost)
 - 
 ---
