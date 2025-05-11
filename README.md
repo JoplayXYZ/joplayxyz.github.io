@@ -2,6 +2,8 @@
 
 Hi welcome to my site
 
+# [> NEW WEBSITE <](https://joplay.xyz/)
+
 ---
 
 ## 🚀 About Me
